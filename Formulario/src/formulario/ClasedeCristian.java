@@ -9,5 +9,7 @@ package formulario;
  * @author kicho
  */
 public class ClasedeCristian {
-    
+    public static void main(String[] args) {
+        System.out.println("HOLAaa");
+    }
 }
