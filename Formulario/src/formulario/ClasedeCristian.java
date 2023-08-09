@@ -11,5 +11,6 @@ package formulario;
 public class ClasedeCristian {
     public static void main(String[] args) {
         System.out.println("HOLAaa");
+        System.out.println("NUEVO CAMBIO");
     }
 }
